@@ -148,7 +148,7 @@
     "cm_version": "",
     "disk_size": "10140",
     "ftp_proxy": "{{env `ftp_proxy`}}",
-    "headless": "",
+    "headless": "true",
     "http_proxy": "{{env `http_proxy`}}",
     "https_proxy": "{{env `https_proxy`}}",
     "install_vagrant_key": "true",
@@ -165,4 +165,3 @@
     "version": "0.1.0"
   }
 }
-
